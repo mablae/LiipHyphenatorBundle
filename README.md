@@ -67,7 +67,7 @@ Installation
         filters: ['liip_hyphenator.filter.simple']
     ```
 
-    All settings are optional. _Caution_: `default_locale`needs to be a fully qualified locale like `en_EN`, `en` will not work. 
+    All settings are optional. _Caution_: `default_locale`needs to be a fully qualified locale like `en_GB`, `en` will not work. 
     
     For details about their meaning consult the Hyphenator library documentation.
 
